@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hi%2C%20I'm%20Lukas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Machine%20Learning%20in%20progress%20%C2%B7%20Copenhagen&descSize=18&descAlignY=55" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+from+Copenhagen;TypeScript+%C2%B7+React+%C2%B7+.NET+%C2%B7+Rust;Heading+into+Machine+Learning;Building+AI-powered+dev+automation" alt="Typing SVG" />
+  <img src="assets/header.svg" width="100%" alt="lukas@1r6 terminal" />
 </div>
 
 <div align="center">
@@ -72,5 +68,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </div>
