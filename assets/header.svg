@@ -1,7 +1,7 @@
 <svg width="880" height="300" viewBox="0 0 880 300" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
   <!--
     1r6 terminal header
-    palette (swap these to match 1r6.dev exactly):
+    palette:
       window bg   #0a0e14
       border      #1f2630
       accent      #00ff87
