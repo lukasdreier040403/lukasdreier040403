@@ -53,12 +53,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lukasdreier040403&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lukasdreier040403&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=lukasdreier040403&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak stats" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdreier040403&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top languages" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukasdreier040403&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top languages" />
 </div>
 
 <br/>
