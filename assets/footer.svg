@@ -1,0 +1,9 @@
+<svg width="880" height="56" viewBox="0 0 880 56" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+  <!-- palette matches assets/header.svg -->
+  <rect x="0.5" y="0.5" width="879" height="55" rx="12" fill="#0a0e14" stroke="#1f2630"/>
+  <text x="24" y="34" font-size="15" fill="#00ff87">lukas@1r6:~ $</text>
+  <text x="151" y="34" font-size="15" fill="#8b949e">exit</text>
+  <rect x="193" y="21" width="9.5" height="17" fill="#00ff87">
+    <animate attributeName="opacity" dur="1.06s" repeatCount="indefinite" values="1;1;0;0"/>
+  </rect>
+</svg>
